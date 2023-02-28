@@ -6,6 +6,7 @@ import java.util.Arrays;
 
 public class Cliente 
 {
+    private int la;
     private String Nombre;
     private String Dni_Propietario;
     private int Numcuentas;
